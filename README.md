@@ -11,3 +11,4 @@ First off, what we're trying to do exactly:
 **Development Seed** [https://atlas.developmentseed.org/](https://atlas.developmentseed.org/)<br/>
 **Facebook Connectivity** [https://connectivity.fb.com/](https://connectivity.fb.com/)<br/>
 **Open Signal** [https://www.opensignal.com/](https://www.opensignal.com/)<br/>
+**Submarine Cable Map** [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/)
